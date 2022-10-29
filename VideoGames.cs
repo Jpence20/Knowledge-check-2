@@ -2,12 +2,12 @@
 
 public class VideoGames
 {
-	public string name;
-	public string genre;
-	public string publisher;
-	public bool consoleExclusive;
+	public string name { get; set; }
+	public string genre { get; set; }
+	public string publisher { get; set; }
+	public string consoleExclusive { get; set; }
 
-	public VideoGames(string gameName, string gameGenre,string gamePublisher, bool gameConsoleExculsive)
+	public VideoGames(string gameName, string gameGenre,string gamePublisher, string gameConsoleExculsive)
 	{
 		gameName = this.name;
 		gameGenre = this.genre;

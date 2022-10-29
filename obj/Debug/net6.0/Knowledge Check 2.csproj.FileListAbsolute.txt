@@ -1,0 +1,15 @@
+C:\Users\jerem\source\repos\Knowledge-check-2\bin\Debug\net6.0\Knowledge Check 2.exe
+C:\Users\jerem\source\repos\Knowledge-check-2\bin\Debug\net6.0\Knowledge Check 2.deps.json
+C:\Users\jerem\source\repos\Knowledge-check-2\bin\Debug\net6.0\Knowledge Check 2.runtimeconfig.json
+C:\Users\jerem\source\repos\Knowledge-check-2\bin\Debug\net6.0\Knowledge Check 2.dll
+C:\Users\jerem\source\repos\Knowledge-check-2\bin\Debug\net6.0\Knowledge Check 2.pdb
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\Knowledge Check 2.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\Knowledge Check 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\Knowledge Check 2.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\Knowledge Check 2.AssemblyInfo.cs
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\Knowledge Check 2.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\Knowledge Check 2.dll
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\refint\Knowledge Check 2.dll
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\Knowledge Check 2.pdb
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\Knowledge Check 2.genruntimeconfig.cache
+C:\Users\jerem\source\repos\Knowledge-check-2\obj\Debug\net6.0\ref\Knowledge Check 2.dll
