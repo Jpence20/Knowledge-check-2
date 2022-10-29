@@ -37,6 +37,6 @@ public class Program
 
         }
         foreach (var entry in recordList)
-            Console.WriteLine($"Game:{entry.name} Genre:{entry.genre} Publisher:{entry.publisher} consoleExcuslive{entry.consoleExclusive}");
+            Console.WriteLine($"Game: {entry.name}| Genre: {entry.genre}| Publisher: {entry.publisher}| consoleExcuslive: {entry.consoleExclusive}");
     }
 }

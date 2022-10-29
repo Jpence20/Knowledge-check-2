@@ -9,10 +9,10 @@ public class VideoGames
 
 	public VideoGames(string gameName, string gameGenre,string gamePublisher, string gameConsoleExculsive)
 	{
-		gameName = this.name;
-		gameGenre = this.genre;
-		gamePublisher = this.publisher;
-		gameConsoleExculsive = this.consoleExclusive;
+		name = gameName;
+		genre = gameGenre;
+		publisher = gamePublisher;
+		consoleExclusive = gameConsoleExculsive;
 	}
 
 
